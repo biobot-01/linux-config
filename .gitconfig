@@ -1,0 +1,11 @@
+[user]
+	name = Kevin Michael
+	email = biobot.mike@gmail.com
+[color]
+	ui = auto
+[push]
+	default = simple
+[merge]
+	conflictstyle = diff3
+[core]
+	editor = nano
